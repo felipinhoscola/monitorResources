@@ -1,0 +1,63 @@
+Descrição Do Sistema:
+  -Sistema Operacional:Windows
+  -Arquitetura do Sistema: x64
+  -Modelo Do Processado: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+  -Tempo De Atividade: 2:18:31:53 H
+  -Uso de Memória RAM: 8.07 GB / 15.94 GB (51 %)
+  -----------------------------------------------
+Descrição Do Sistema:
+  -Sistema Operacional:Windows
+  -Arquitetura do Sistema: x64
+  -Modelo Do Processado: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+  -Tempo De Atividade: 2:18:31:54 H
+  -Uso de Memória RAM: 8.07 GB / 15.94 GB (51 %)
+  -----------------------------------------------
+Descrição Do Sistema:
+  -Sistema Operacional:Windows
+  -Arquitetura do Sistema: x64
+  -Modelo Do Processado: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+  -Tempo De Atividade: 2:18:31:55 H
+  -Uso de Memória RAM: 8.05 GB / 15.94 GB (51 %)
+  -----------------------------------------------
+Descrição Do Sistema:
+  -Sistema Operacional:Windows
+  -Arquitetura do Sistema: x64
+  -Modelo Do Processado: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+  -Tempo De Atividade: 2:18:31:56 H
+  -Uso de Memória RAM: 8.05 GB / 15.94 GB (51 %)
+  -----------------------------------------------
+Descrição Do Sistema:
+  -Sistema Operacional:Windows
+  -Arquitetura do Sistema: x64
+  -Modelo Do Processado: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+  -Tempo De Atividade: 2:18:31:57 H
+  -Uso de Memória RAM: 8.05 GB / 15.94 GB (51 %)
+  -----------------------------------------------
+Descrição Do Sistema:
+  -Sistema Operacional:Windows
+  -Arquitetura do Sistema: x64
+  -Modelo Do Processado: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+  -Tempo De Atividade: 2:18:31:58 H
+  -Uso de Memória RAM: 8.04 GB / 15.94 GB (50 %)
+  -----------------------------------------------
+Descrição Do Sistema:
+  -Sistema Operacional:Windows
+  -Arquitetura do Sistema: x64
+  -Modelo Do Processado: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+  -Tempo De Atividade: 2:18:31:59 H
+  -Uso de Memória RAM: 8.04 GB / 15.94 GB (50 %)
+  -----------------------------------------------
+Descrição Do Sistema:
+  -Sistema Operacional:Windows
+  -Arquitetura do Sistema: x64
+  -Modelo Do Processado: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+  -Tempo De Atividade: 2:18:32:0 H
+  -Uso de Memória RAM: 8.04 GB / 15.94 GB (50 %)
+  -----------------------------------------------
+Descrição Do Sistema:
+  -Sistema Operacional:Windows
+  -Arquitetura do Sistema: x64
+  -Modelo Do Processado: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+  -Tempo De Atividade: 2:18:32:1 H
+  -Uso de Memória RAM: 8.05 GB / 15.94 GB (50 %)
+  -----------------------------------------------
